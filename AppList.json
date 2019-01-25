@@ -2,7 +2,7 @@
   {
     "appTemplate" : "webapp",
     "description" : "User Management",
-    "displayName" : "User Management 2",
+    "displayName" : "User Management 3",
     "htmlHeadTitle" : "User Management",
     "keywords" : "Authentication, Trillo, User Management",
     "linkedApp" : "shared",
